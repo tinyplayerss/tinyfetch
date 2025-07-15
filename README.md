@@ -20,6 +20,13 @@
 
 ## 🔧 Compilation
 
+Download the raw C source code:
+
+```bash
+wget https://github.com/tinyplayerss/tinyfetch/releases/latest/download/tinyfetch.c
+
+```
+
 If you're on a Debian-based distro (like Peppermint OS or Ubuntu), you can compile it like this:
 
 ```bash
@@ -43,7 +50,7 @@ sudo chmod +x /usr/bin/tinyfetch
 You can download the precompiled binary and install it:
 
 ```bash
-wget https://[Coming Soon...]
+wget https://github.com/tinyplayerss/tinyfetch/releases/latest/download/tinyfetch
 sudo mv tinyfetch /usr/bin/
 sudo chmod +x /usr/bin/tinyfetch
 ```
