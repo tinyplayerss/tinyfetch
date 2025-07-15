@@ -105,7 +105,7 @@ If `tinyfetch.conf` doesn't exist, it will be automatically generated with all f
                         |  $$$$$$/
                          \______/ 
 
-User:         jacobus@ThinkPad-X100e
+User:         tinyplayerss@ThinkPad-X100e
 Installed:    2025/07/12
 OS:           Ubuntu 24.04 LTS
 Kernel:       6.1.0-37-amd64
