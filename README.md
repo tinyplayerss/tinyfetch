@@ -2,6 +2,8 @@
 
 **tinyfetch** is a blazing fast, minimalist system info tool written in C — designed to be lighter, faster, and simpler than tools like `neofetch`. It prints system information with optional ASCII branding, all configurable via a `.conf` file.
 
+![20250715_030848](https://github.com/user-attachments/assets/dc128ac7-4ad4-45d8-aec7-61642f325003)
+
 ---
 
 ## ✨ Features
